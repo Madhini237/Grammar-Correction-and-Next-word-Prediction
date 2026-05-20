@@ -1,6 +1,7 @@
 # Grammar Correction and Next Word Prediction
 
  OVERVIEW
+ 
 This project focuses on Natural Language Processing (NLP) techniques for:
 - Grammar correction
 - Next word prediction
